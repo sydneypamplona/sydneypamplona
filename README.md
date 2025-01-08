@@ -92,7 +92,7 @@ Administrador com Especialização em Finanças para Empresas. Possuo CPA-20 e t
     alt="GitHub Stats" 
     height="120" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sydneypamplona&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sydneypamplona&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 </p>
 
