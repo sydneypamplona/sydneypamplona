@@ -2,7 +2,7 @@
 
 **`FP&A`**  **`Economia`**  **`Investimentos`**
 
-Administrador com Especialização em Finanças para Empresas. Possuo CPA-20 e tenho mais de 4 anos de experiência com setor Financeiro. Também sou técnico em informática e atualmente estou me aprimorando em Python e Power BI, com foco em análise financeira. Compartilho aqui alguns dos projetos que achei mais interessante, até como forma de contribuição com a comunidade.
+Administrador com Especialização em Finanças para Empresas, CPA-20, Técnico em Informática e mais de 4 anos de experiência com o setor Financeiro nas maiores empresas da Paraíba. Atualmente focando em projetos com Python e Power BI voltados ao setor financeiro.
 
 <p align="left">
     <a href="https://x.com/realpamplona" target="_blank">
